@@ -1,16 +1,16 @@
 ## Implemented features
 
-# 1. Create Note
-# 2. Edit Note
-# 3. Delete Note
-# 4. Add Encryption to the notes before storing.
-# 5. Add a Docker File.
-# 6. Add printable version
-# 7. Add possibility to save note as pdf
-# 8. Filter notes in list view
-# 9. Export all notes from storage
-# 10. Search notes
-# 11. Sort notes in list view
+## 1. Create Note
+## 2. Edit Note
+## 3. Delete Note
+## 4. Add Encryption to the notes before storing.
+## 5. Add a Docker File.
+## 6. Add printable version
+## 7. Add possibility to save note as pdf
+## 8. Filter notes in list view
+## 9. Export all notes from storage
+## 10. Search notes
+## 11. Sort notes in list view
 
 
 ## Available Scripts
